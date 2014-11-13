@@ -1,7 +1,4 @@
-Flashlight_Uwaterloo_Plugins
-============================
-
-<h2>Spotlight plug ins for Uwaterloo Students</h2>
+<h1>Spotlight plug ins for Uwaterloo Students</h1>
 
 <ol>
 <li>Download Flashlight from this website: http://flashlight.nateparrott.com
