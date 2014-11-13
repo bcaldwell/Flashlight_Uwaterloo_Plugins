@@ -1,0 +1,6 @@
+{
+	"name": "jobmine",
+	"displayName": "Jobmine",
+	"description": "Opens Jobmine",
+	"examples": ["jobmine"]
+}
