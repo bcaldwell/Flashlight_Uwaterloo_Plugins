@@ -14,4 +14,4 @@ How to use this plug in:
       - jobmine (opens jobmine in web browser)
 5. Copy the downloaded plugins to the following folder. ~/Library/FlashlightPlugins/
 6. Open spotlight and test out the plugins
-7. Enjoy
+7. Enjoy 
