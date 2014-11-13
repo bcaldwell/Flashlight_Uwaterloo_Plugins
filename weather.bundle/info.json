@@ -1,0 +1,7 @@
+{
+	"name": "weather",
+	"displayName": "Weather",
+	"description": "View the forecast in Spotlight.",
+	"examples": ["weather brooklyn", "how's the weather in houston?"],
+	"categories": ["Weather", "Featured"]
+}

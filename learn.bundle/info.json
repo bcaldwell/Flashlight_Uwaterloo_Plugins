@@ -1,0 +1,6 @@
+{
+	"name": "learn",
+	"displayName": "Learn",
+	"description": "Opens Uwaterloo Learn",
+	"examples": ["learn"]
+}
